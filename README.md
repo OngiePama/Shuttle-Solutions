@@ -118,7 +118,7 @@ Iterate
 ## Empathy Map
 
 <p align="center">
-<img src="assets/research/empathy-map.png" width="600">
+<img src="assets/research/empathy-map.png">
 </p>
 
 The empathy mapping exercise revealed that students experience uncertainty throughout the booking journey, particularly when evaluating shuttle providers and waiting for transportation.
@@ -192,7 +192,7 @@ Multiple concepts were explored before selecting the strongest interaction patte
 </p>
 
 <p align="center">
-<img src="assets/storyboards/storyboard-2.png">
+<img src="assets/storyboards/storyboard-2.png" width="250">
 </p>
 
 Storyboards were used to visualise the complete user journey before designing interface layouts.
