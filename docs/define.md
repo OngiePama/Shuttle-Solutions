@@ -11,7 +11,11 @@ This phase transformed raw interview data into actionable design goals through p
 # User Persona
 
 <p align="center">
-<img src="../assets/personas/maya-thompson.png" width="850">
+<img src="../assets/personas/persona.png" width="850">
+</p>
+
+<p align="center">
+<img src="../assets/personas/persona-2.png" width="850">
 </p>
 
 ## Maya Thompson
