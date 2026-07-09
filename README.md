@@ -1,7 +1,7 @@
 # 🚐 Shuttle Solutions
 
 <p align="center">
-  <img src="assets/hero/cover.png" width="900">
+  <img src="assets/hero/cover.png" width="800">
 </p>
 
 <p align="center">
@@ -118,7 +118,7 @@ Iterate
 ## Empathy Map
 
 <p align="center">
-<img src="assets/research/empathy-map.png" width="900">
+<img src="assets/research/empathy-map.png" width="800">
 </p>
 
 The empathy mapping exercise revealed that students experience uncertainty throughout the booking journey, particularly when evaluating shuttle providers and waiting for transportation.
@@ -128,11 +128,11 @@ The empathy mapping exercise revealed that students experience uncertainty throu
 # 👤 User Persona
 
 <p align="center">
-<img src="assets/personas/persona.png" width="850">
+<img src="assets/personas/persona.png" width="700">
 </p>
 
 <p align="center">
-<img src="assets/personas/persona-2.png" width="850">
+<img src="assets/personas/persona-2.png" width="700">
 </p>
 
 ### Goals
@@ -174,11 +174,11 @@ Students travelling long distances need a reliable and transparent booking exper
 ## Initial Concept Sketches
 
 <p align="center">
-<img src="assets/sketches/sketch.png">
+<img src="assets/sketches/sketch.png" width="250">
 </p>
 
 <p align="center">
-<img src="assets/sketches/sketch-2.png">
+<img src="assets/sketches/sketch-2.png" width="250">
 </p>
 
 Multiple concepts were explored before selecting the strongest interaction patterns.
@@ -188,7 +188,7 @@ Multiple concepts were explored before selecting the strongest interaction patte
 # 📚 Storyboards
 
 <p align="center">
-<img src="assets/storyboards/storyboard-1.png">
+<img src="assets/storyboards/storyboard-1.png" width="300">
 </p>
 
 <p align="center">
@@ -272,7 +272,7 @@ The study evaluated
 ### Before
 
 <p align="center">
-<img src="assets/usability-testing/before.png" width="250">
+<img src="assets/usability-testing/before.png" width="300">
 </p>
 
 ### After
@@ -284,7 +284,7 @@ The study evaluated
 ### Before
 
 <p align="center">
-<img src="assets/usability-testing/before-2.png" width="250">
+<img src="assets/usability-testing/before-2.png" width="300">
 </p>
 
 ### After
@@ -296,13 +296,13 @@ The study evaluated
 ### Before
 
 <p align="center">
-<img src="assets/usability-testing/before-3.png" width="250">
+<img src="assets/usability-testing/before-3.png" width="300">
 </p>
 
 ### After
 
 <p align="center">
-<img src="assets/usability-testing/after-3.png">
+<img src="assets/usability-testing/after-3.png" width="300">
 </p>
 
 The redesign simplified navigation, reduced cognitive load, and improved clarity during the booking process.
