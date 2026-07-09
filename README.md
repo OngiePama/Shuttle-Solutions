@@ -128,7 +128,11 @@ The empathy mapping exercise revealed that students experience uncertainty throu
 # 👤 User Persona
 
 <p align="center">
-<img src="assets/personas/maya-thompson.png" width="850">
+<img src="assets/personas/persona.png" width="850">
+</p>
+
+<p align="center">
+<img src="assets/personas/persona-2.png" width="850">
 </p>
 
 ### Goals
@@ -170,7 +174,11 @@ Students travelling long distances need a reliable and transparent booking exper
 ## Initial Concept Sketches
 
 <p align="center">
-<img src="assets/sketches/sketch-gallery.png">
+<img src="assets/sketches/sketch.png">
+</p>
+
+<p align="center">
+<img src="assets/sketches/sketch-2.png">
 </p>
 
 Multiple concepts were explored before selecting the strongest interaction patterns.
@@ -180,7 +188,11 @@ Multiple concepts were explored before selecting the strongest interaction patte
 # 📚 Storyboards
 
 <p align="center">
-<img src="assets/storyboards/storyboard.png">
+<img src="assets/storyboards/storyboard-1.png">
+</p>
+
+<p align="center">
+<img src="assets/storyboards/storyboard-2.png">
 </p>
 
 Storyboards were used to visualise the complete user journey before designing interface layouts.
@@ -190,7 +202,11 @@ Storyboards were used to visualise the complete user journey before designing in
 # 📱 Wireframes
 
 <p align="center">
-<img src="assets/wireframes/wireframes.png">
+<img src="assets/wireframes/wireframe.png">
+</p>
+
+<p align="center">
+<img src="assets/wireframes/wireframe-2.png">
 </p>
 
 Low-fidelity wireframes translated conceptual ideas into interactive screens that could be evaluated with users.
@@ -200,7 +216,27 @@ Low-fidelity wireframes translated conceptual ideas into interactive screens tha
 # ✂️ Paper Prototype
 
 <p align="center">
-<img src="assets/prototype/paper-prototype.png">
+<img src="assets/prototype/prototype.png">
+</p>
+
+<p align="center">
+<img src="assets/prototype/prototype-2.png">
+</p>
+
+<p align="center">
+<img src="assets/prototype/prototype-3.png">
+</p>
+
+<p align="center">
+<img src="assets/prototype/prototype-4.png">
+</p>
+
+<p align="center">
+<img src="assets/prototype/prototype-5.png">
+</p>
+
+<p align="center">
+<img src="assets/prototype/prototype-6.png">
 </p>
 
 Paper prototypes allowed rapid iteration before investing time in digital interfaces.
@@ -245,6 +281,30 @@ The study evaluated
 <img src="assets/usability-testing/after.png">
 </p>
 
+### Before
+
+<p align="center">
+<img src="assets/usability-testing/before-2.png">
+</p>
+
+### After
+
+<p align="center">
+<img src="assets/usability-testing/after-2.png">
+</p>
+
+### Before
+
+<p align="center">
+<img src="assets/usability-testing/before-3.png">
+</p>
+
+### After
+
+<p align="center">
+<img src="assets/usability-testing/after-3.png">
+</p>
+
 The redesign simplified navigation, reduced cognitive load, and improved clarity during the booking process.
 
 ---
@@ -272,9 +332,9 @@ The experience reinforced that successful digital products emerge through repeat
 
 ## 👥 Team
 
-- Mia Franco
+- **Ongeziwe Pama**
+-  Mia Franco
 - Inam Gazi
 - Vuyolwethu Makamba
 - Farai Musariri
 - Vuyo Ntamo
-- **Ongeziwe Pama**
