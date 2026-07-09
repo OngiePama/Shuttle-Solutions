@@ -202,11 +202,11 @@ Storyboards were used to visualise the complete user journey before designing in
 # 📱 Wireframes
 
 <p align="center">
-<img src="assets/wireframes/wireframe.png" width="400">
+<img src="assets/wireframes/wireframe.png">
 </p>
 
 <p align="center">
-<img src="assets/wireframes/wireframe-2.png" width="400">
+<img src="assets/wireframes/wireframe-2.png">
 </p>
 
 Low-fidelity wireframes translated conceptual ideas into interactive screens that could be evaluated with users.
