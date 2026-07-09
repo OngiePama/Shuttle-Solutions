@@ -23,7 +23,11 @@ Storyboards visualised the complete user journey before interface design began.
 # Wireframes
 
 <p align="center">
-<img src="../assets/wireframes/wireframe-home.png">
+<img src="../assets/wireframes/wireframe.png">
+</p>
+
+<p align="center">
+<img src="../assets/wireframes/wireframe-2.png">
 </p>
 
 The wireframes established:
@@ -38,7 +42,27 @@ The wireframes established:
 # Paper Prototype
 
 <p align="center">
-<img src="../assets/prototype/prototype-1.png">
+<img src="../assets/prototype/prototype.png">
+</p>
+
+<p align="center">
+<img src="../assets/prototype/prototype-2.png">
+</p>
+
+<p align="center">
+<img src="../assets/prototype/prototype-3.png">
+</p>
+
+<p align="center">
+<img src="../assets/prototype/prototype-4.png">
+</p>
+
+<p align="center">
+<img src="../assets/prototype/prototype-5.png">
+</p>
+
+<p align="center">
+<img src="../assets/prototype/prototype-6.png">
 </p>
 
 Paper prototyping enabled rapid iteration before moving to higher-fidelity designs.
