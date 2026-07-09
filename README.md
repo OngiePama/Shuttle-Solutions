@@ -1,7 +1,7 @@
 # 🚐 Shuttle Solutions
 
 <p align="center">
-  <img src="assets/hero/shuttle-banner.png" width="900">
+  <img src="assets/hero/cover.png" width="900">
 </p>
 
 <p align="center">
