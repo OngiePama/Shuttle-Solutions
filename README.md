@@ -229,11 +229,11 @@ Low-fidelity wireframes translated conceptual ideas into interactive screens tha
 </p>
 
 <p align="center">
-<img src="assets/prototype/prototype-2.png">
+<img src="assets/prototype/prototype-3.png">
 </p>
 
 <p align="center">
-<img src="assets/prototype/prototype-3.png">
+<img src="assets/prototype/prototype-2.png">
 </p>
 
 <p align="center">
