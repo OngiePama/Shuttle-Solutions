@@ -225,27 +225,27 @@ Low-fidelity wireframes translated conceptual ideas into interactive screens tha
 # ✂️ Paper Prototype
 
 <p align="center">
-<img src="assets/prototype/prototype.png" width="400">
+<img src="assets/prototype/prototype.png">
 </p>
 
 <p align="center">
-<img src="assets/prototype/prototype-2.png" width="400">
+<img src="assets/prototype/prototype-2.png">
 </p>
 
 <p align="center">
-<img src="assets/prototype/prototype-3.png" width="400">
+<img src="assets/prototype/prototype-3.png">
 </p>
 
 <p align="center">
-<img src="assets/prototype/prototype-4.png" width="400">
+<img src="assets/prototype/prototype-4.png">
 </p>
 
 <p align="center">
-<img src="assets/prototype/prototype-5.png" width="400">
+<img src="assets/prototype/prototype-5.png">
 </p>
 
 <p align="center">
-<img src="assets/prototype/prototype-6.png" width="400">
+<img src="assets/prototype/prototype-6.png">
 </p>
 
 Paper prototypes allowed rapid iteration before investing time in digital interfaces.
