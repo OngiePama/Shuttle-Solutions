@@ -321,7 +321,7 @@ The experience reinforced that successful digital products emerge through repeat
 
 # 🛠 Tools
 
-- Figma
+- Balsamiq
 - Paper Prototyping
 - Human-Centred Design
 - User Interviews
