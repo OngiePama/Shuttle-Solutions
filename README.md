@@ -270,30 +270,6 @@ The experience reinforced that successful digital products emerge through repeat
 
 ---
 
-# 📚 Repository Structure
-
-```
-Shuttle-Solutions/
-
-│── README.md
-
-│── assets/
-│   ├── hero/
-│   ├── research/
-│   ├── personas/
-│   ├── sketches/
-│   ├── storyboards/
-│   ├── wireframes/
-│   ├── prototype/
-│   └── usability-testing/
-
-│── LICENSE
-
-└── .gitignore
-```
-
----
-
 ## 👥 Team
 
 - Mia Franco
