@@ -80,7 +80,6 @@ while reducing cognitive load and improving confidence throughout the booking pr
 
 # Design Process
 
-```text
 🔍 Research
       ↓
 🧠 Define
@@ -264,7 +263,7 @@ The study evaluated
 
 | Problem | Improvement |
 |----------|-------------|
-| Users hesitated on the landing page | Redesigned landing screen |
+| Users hesitated on the landing page | Redesigned the landing screen |
 | Information overload | Split destination and driver selection |
 | Wallet feature misunderstood | Added contextual information icon |
 
@@ -324,12 +323,13 @@ The experience reinforced that successful digital products emerge through repeat
 
 # 🛠 Tools
 
-- Balsamiq
-- Paper Prototyping
-- Human-Centred Design
-- User Interviews
-- GitHub
-- Markdown
+![Balsamiq](https://img.shields.io/badge/Balsamiq-Wireframing-CC0000)
+
+![Paper Prototype](https://img.shields.io/badge/Paper-Prototype-blue)
+
+![User Research](https://img.shields.io/badge/User-Research-success)
+
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)
 
 ---
 
