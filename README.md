@@ -78,7 +78,7 @@ while reducing cognitive load and improving confidence throughout the booking pr
 
 ---
 
-# Design Process
+## Design Process
 
 🔍 Research
       ↓
@@ -321,15 +321,16 @@ The experience reinforced that successful digital products emerge through repeat
 
 ---
 
-# 🛠 Tools
+## 🛠️ Tools Used
 
-![Balsamiq](https://img.shields.io/badge/Balsamiq-Wireframing-CC0000)
-
-![Paper Prototype](https://img.shields.io/badge/Paper-Prototype-blue)
-
-![User Research](https://img.shields.io/badge/User-Research-success)
-
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)
+| Tool | Purpose |
+|------|---------|
+| **Balsamiq** | Low-fidelity wireframing |
+| **Microsoft Word** | Project documentation |
+| **Paper Prototyping** | Early interface validation |
+| **User Interviews** | User research |
+| **Empathy Mapping** | Understanding user needs |
+| **GitHub** | Project documentation and portfolio |
 
 ---
 
