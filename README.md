@@ -272,7 +272,7 @@ The study evaluated
 ### Before
 
 <p align="center">
-<img src="assets/usability-testing/before.png" width="400">
+<img src="assets/usability-testing/before.png" width="250">
 </p>
 
 ### After
@@ -284,7 +284,7 @@ The study evaluated
 ### Before
 
 <p align="center">
-<img src="assets/usability-testing/before-2.png">
+<img src="assets/usability-testing/before-2.png" width="250">
 </p>
 
 ### After
@@ -296,7 +296,7 @@ The study evaluated
 ### Before
 
 <p align="center">
-<img src="assets/usability-testing/before-3.png">
+<img src="assets/usability-testing/before-3.png" width="250">
 </p>
 
 ### After
