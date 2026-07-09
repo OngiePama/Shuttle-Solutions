@@ -77,3 +77,14 @@ The prototype focused on validating:
 - Booking process
 - Driver selection
 - Payment flow
+
+## Design Tools
+
+The design process intentionally progressed from low-fidelity concepts to interactive paper prototypes.
+
+| Stage | Tool |
+|--------|------|
+| Concept Sketches | Hand-drawn sketches |
+| Wireframes | Balsamiq |
+| Prototype | Paper Prototype |
+| Evaluation | Usability Testing |
