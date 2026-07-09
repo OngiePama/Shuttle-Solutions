@@ -118,7 +118,7 @@ Iterate
 ## Empathy Map
 
 <p align="center">
-<img src="assets/research/empathy-map.png" width="800">
+<img src="assets/research/empathy-map.png" width="600">
 </p>
 
 The empathy mapping exercise revealed that students experience uncertainty throughout the booking journey, particularly when evaluating shuttle providers and waiting for transportation.
@@ -174,11 +174,11 @@ Students travelling long distances need a reliable and transparent booking exper
 ## Initial Concept Sketches
 
 <p align="center">
-<img src="assets/sketches/sketch.png" width="600">
+<img src="assets/sketches/sketch.png" width="500">
 </p>
 
 <p align="center">
-<img src="assets/sketches/sketch-2.png" width="600">
+<img src="assets/sketches/sketch-2.png" width="500">
 </p>
 
 Multiple concepts were explored before selecting the strongest interaction patterns.
