@@ -77,31 +77,23 @@ Design an intuitive mobile application that enables students to
 while reducing cognitive load and improving confidence throughout the booking process.
 
 ---
+## 🎯 Design Process
 
-## Design Process
-
-🔍 Research
-
-     ↓
-
-🧠 Define
-
-     ↓
-
-💡 Ideate
-
-     ↓
-
-📱 Prototype
-
-     ↓
-
-🧪 Test
-
-     ↓
-
-📈 Iterate
-
+```text
+🔍 Needfinding
+       ↓
+🧠 Sensemaking
+       ↓
+💡 Ideation
+       ↓
+📝 Storyboarding & Wireframing
+       ↓
+📱 Paper Prototyping
+       ↓
+🧪 Usability Testing
+       ↓
+🔄 Reflection & Iteration
+```
 ---
 
 # 🔍 User Research
