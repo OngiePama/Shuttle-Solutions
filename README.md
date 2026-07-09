@@ -15,7 +15,16 @@
 </p>
 
 ---
+## Contents
 
+- [Overview](#overview)
+- [Research](docs/research.md)
+- [Define](docs/define.md)
+- [Ideation](docs/ideation.md)
+- [Prototype](docs/prototype.md)
+- [Testing](docs/testing.md)
+- [Reflection](docs/reflection.md)
+  
 # 📖 Overview
 
 Shuttle Solutions is a mobile application designed to improve the way students book long-distance transportation from Rhodes University.
