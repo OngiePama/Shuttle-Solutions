@@ -81,16 +81,26 @@ while reducing cognitive load and improving confidence throughout the booking pr
 ## Design Process
 
 🔍 Research
-      ↓
+
+↓
+
 🧠 Define
-      ↓
+
+↓
+
 💡 Ideate
-      ↓
+
+↓
+
 📱 Prototype
-      ↓
+
+↓
+
 🧪 Test
-      ↓
-🔄 Iterate
+
+↓
+
+📈 Iterate
 
 ---
 
