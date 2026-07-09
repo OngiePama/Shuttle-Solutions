@@ -11,11 +11,11 @@ Sketching encouraged rapid exploration without investing significant development
 # Concept Sketches
 
 <p align="center">
-<img src="../assets/sketches/sketch.png" width="800">
+<img src="../assets/sketches/sketch.png" width="600">
 </p>
 
 <p align="center">
-<img src="../assets/sketches/sketch-2.png" width="800">
+<img src="../assets/sketches/sketch-2.png" width="600">
 </p>
 
 ...
