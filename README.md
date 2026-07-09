@@ -82,23 +82,23 @@ while reducing cognitive load and improving confidence throughout the booking pr
 
 🔍 Research
 
-↓
+     ↓
 
 🧠 Define
 
-↓
+     ↓
 
 💡 Ideate
 
-↓
+     ↓
 
 📱 Prototype
 
-↓
+     ↓
 
 🧪 Test
 
-↓
+     ↓
 
 📈 Iterate
 
