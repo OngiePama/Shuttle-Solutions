@@ -13,7 +13,7 @@ The prototype translated early concepts into interactive wireframes and paper pr
 </p>
 
 <p align="center">
-<img src="../assets/storyboards/storyboard-2.png" width="400">
+<img src="../assets/storyboards/storyboard-2.png" width="300">
 </p>
 
 Storyboards visualised the complete user journey before interface design began.
