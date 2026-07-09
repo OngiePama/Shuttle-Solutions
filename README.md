@@ -15,7 +15,7 @@
 </p>
 
 ---
-## Contents
+## Navigation
 
 - [Overview](#overview)
 - [Research](docs/research.md)
@@ -24,6 +24,9 @@
 - [Prototype](docs/prototype.md)
 - [Testing](docs/testing.md)
 - [Reflection](docs/reflection.md)
+- [About](docs/about.md)
+- [My Contributions](docs/contributions.md)
+- [Future Improvements](docs/future-improvements.md)
   
 # 📖 Overview
 
@@ -35,23 +38,15 @@ Rather than focusing solely on functionality, the project prioritised usability,
 
 ---
 
-# 👤 My Role
+# Project Summary
 
-This project was completed as part of a team.
-
-### My contributions included
-
-- UX Research
-- User Interviews
-- Needfinding
-- Empathy Mapping
-- Concept Ideation
-- Wireframing
-- Paper Prototyping
-- Usability Testing
-- Design Iteration
-
----
+| | |
+|---|---|
+| Duration | 6 Weeks |
+| Team | 6 Designers |
+| Role | UX Designer |
+| Methods | Interviews, Personas, Storyboarding, Prototyping |
+| Testing | 5 Participants |
 
 # 🎯 Problem
 
@@ -83,21 +78,20 @@ while reducing cognitive load and improving confidence throughout the booking pr
 
 ---
 
-# 🛠 Design Process
+# Design Process
 
 ```text
-Empathize
+🔍 Research
       ↓
-Define
+🧠 Define
       ↓
-Ideate
+💡 Ideate
       ↓
-Prototype
+📱 Prototype
       ↓
-Test
+🧪 Test
       ↓
-Iterate
-```
+🔄 Iterate
 
 ---
 
