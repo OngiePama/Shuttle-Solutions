@@ -174,11 +174,11 @@ Students travelling long distances need a reliable and transparent booking exper
 ## Initial Concept Sketches
 
 <p align="center">
-<img src="assets/sketches/sketch.png" width="250">
+<img src="assets/sketches/sketch.png" width="600">
 </p>
 
 <p align="center">
-<img src="assets/sketches/sketch-2.png" width="250">
+<img src="assets/sketches/sketch-2.png" width="600">
 </p>
 
 Multiple concepts were explored before selecting the strongest interaction patterns.
@@ -188,7 +188,7 @@ Multiple concepts were explored before selecting the strongest interaction patte
 # 📚 Storyboards
 
 <p align="center">
-<img src="assets/storyboards/storyboard-1.png" width="300">
+<img src="assets/storyboards/storyboard-1.png" width="600">
 </p>
 
 <p align="center">
